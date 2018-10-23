@@ -17,7 +17,7 @@ public class Student {
         return prezime;
     }
 
-    public int getBr_indexa() {
+    public int getBrojIndexa() {
         return br_indexa;
     }
 
@@ -29,7 +29,7 @@ public class Student {
         this.prezime = prezime;
     }
 
-    public void setBr_indexa(int br_indexa) {
+    public void setBrojIndexa(int br_indexa) {
         this.br_indexa = br_indexa;
     }
     public String toString() {

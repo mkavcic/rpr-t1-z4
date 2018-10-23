@@ -22,23 +22,23 @@ public class Predmet {
         }
     }
 
-    public String getNaziv_predmeta() {
+    public String getNazivPredmeta() {
         return naziv_predmeta;
     }
 
-    public int getSifra_premdeta() {
+    public int getSifraPredmeta() {
         return sifra_premdeta;
     }
 
-    public int getMax_br() {
+    public int getMaxBrojStudenata() {
         return max_br;
     }
 
-    public void setNaziv_predmeta(String naziv_predmeta) {
+    public void setNazivPredmeta(String naziv_predmeta) {
         this.naziv_predmeta = naziv_predmeta;
     }
 
-    public void setSifra_premdeta(int sifra_premdeta) {
+    public void setSifraPredmeta(int sifra_premdeta) {
         this.sifra_premdeta = sifra_premdeta;
     }
 
